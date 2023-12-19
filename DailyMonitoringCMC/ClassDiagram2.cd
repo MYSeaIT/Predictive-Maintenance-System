@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DailyMonitoringCMC.Models.DailyMonitoringCMCContext" Collapsed="true">
+    <Position X="38.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAEAAAAABAAACAGAEAAAA=</HashCode>
+      <FileName>DAL\DailyMonitoringCMCContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.ConnectionControl" Collapsed="true">
+    <Position X="37" Y="18" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAEAAAAIEAiAAAAAAAACAACAAA=</HashCode>
+      <FileName>Models\ConnectionControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.Location" Collapsed="true">
+    <Position X="40.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.Node" Collapsed="true">
+    <Position X="37" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAAgAAAAAAQAEAAGACAIBAAAAACAAAAAE=</HashCode>
+      <FileName>Models\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.Trend" Collapsed="true">
+    <Position X="38.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DJCAEAAQAQIEAAjGAwgECAABADQAgIIAAAJEABkAAAA=</HashCode>
+      <FileName>Models\Trend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.WindMill" Collapsed="true">
+    <Position X="40.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAiAAAAAAAAAIAEAAAAAAiAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Models\WindMill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.WindPark" Collapsed="true">
+    <Position X="37" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACgBAAAAAAAAAAAAAAAAAAAACAAAAAAAAKAAgAAE=</HashCode>
+      <FileName>Models\WindPark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DailyMonitoringCMC.Models.NodeActive" Collapsed="true">
+    <Position X="37" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Node.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

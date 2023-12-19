@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DailyMonitoringCMC.Models.DailyMonitoringCMCContext" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAEAAAAABAAACAGAEAAAA=</HashCode>
+      <FileName>DAL\DailyMonitoringCMCContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.ConnectionControl" Collapsed="true">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAEAAAAIEAiAAAAAAAACAACAAA=</HashCode>
+      <FileName>Models\ConnectionControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.Location" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.Trend" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DJCAEAAQAQIEAAjGAwgECAABADQAgIIAAAJEABkAAAA=</HashCode>
+      <FileName>Models\Trend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.WindMill" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAiAAAAAAAAAIAEAAAAAAiAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Models\WindMill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMonitoringCMC.Models.WindPark" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACgBAAAAAAQAAAAAAEAAAAAACAAAAAAAAKAAgAAE=</HashCode>
+      <FileName>Models\WindPark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
